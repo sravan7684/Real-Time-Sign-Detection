@@ -16,11 +16,11 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/real-time-sign-detection.git
+git clone (https://github.com/sravan7684/Real-Time-Sign-Detection)
 Navigate to the project directory:
 bash
 Copy code
-cd real-time-sign-detection
+cd Real-Time-Sign-Detection
 Install the required dependencies:
 bash
 Copy code
